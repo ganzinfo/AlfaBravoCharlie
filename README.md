@@ -1,4 +1,3 @@
 # AlfaBravoCharlie
 
-sajkdhfaskjhfsakjfhalkd
-sakjdfaskh
+Ez egy új mondat...
